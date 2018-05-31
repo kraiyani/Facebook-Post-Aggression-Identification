@@ -21,9 +21,3 @@ pip3 install Cython
 pip3 install fasttext
 
 pip3 install ekphrasis
-
-python3
-
-import nltk
-
-nltk.download('stopwords')
