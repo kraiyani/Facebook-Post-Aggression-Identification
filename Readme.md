@@ -7,6 +7,10 @@ dataset will be made publicly available after the end of the competition).
 
 Especially, the English developed system, when used to classify Social Media text, outperforms all the shared task submitted systems.
 
+# Dataset
+
+Data will be made publicly available after the end of the competition under Creative Commons Non-Commercial Share-Alike 4.0 licence CC-BY-NC-SA 4.0(https://creativecommons.org/licenses/by-nc-sa/4.0/)! Please Click Here(https://docs.google.com/forms/d/1Y-JEdtEc6syMuxVB4oXNqmjUHOaymgA0GUFoqoyMalc/viewform?edit_requested=true) to get the dataset used in the task.
+
 # Reference
 
 Ritesh Kumar, Atul Kr. Ojha, Shervin Malmasi, and Marcos Zampieri. 2018a. Benchmarking Aggression Identification in Social Media. In Proceedings of the First Workshop on Trolling, Aggression and Cyberbulling (TRAC), Santa Fe, USA.
