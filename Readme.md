@@ -11,6 +11,14 @@ Especially, the English developed system, when used to classify Social Media tex
 
 Data will be made publicly available after the end of the competition under Creative Commons Non-Commercial Share-Alike 4.0 licence CC-BY-NC-SA 4.0(https://creativecommons.org/licenses/by-nc-sa/4.0/)! Please Click Here(https://docs.google.com/forms/d/1Y-JEdtEc6syMuxVB4oXNqmjUHOaymgA0GUFoqoyMalc/viewform?edit_requested=true) to get the dataset used in the task.
 
+# Code
+
+There are four Jupyter notebook files.
+1. Engilsh_fb.ipynb
+2. Engilsh_sm.ipynb
+3. Hindi_fb.ipynb
+4. Hindi_sm.ipynb
+
 # Reference
 
 Ritesh Kumar, Atul Kr. Ojha, Shervin Malmasi, and Marcos Zampieri. 2018a. Benchmarking Aggression Identification in Social Media. In Proceedings of the First Workshop on Trolling, Aggression and Cyberbulling (TRAC), Santa Fe, USA.
